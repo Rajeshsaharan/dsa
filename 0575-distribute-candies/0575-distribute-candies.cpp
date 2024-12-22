@@ -4,17 +4,19 @@ class Solution {
 public:
     int distributeCandies(vector<int>& candyType) {
         int size = candyType.size();
-        int i = 0;
-        map<int , int> store;
-        while( i < size){
-            if(store.size() < size / 2){
-                cout << store.size() << endl;
-                store[candyType[i]] = store[candyType[i]] +1;
+        int i = 1;
+        int count = 1;
+        map<int, int> store;
+        store[candyType[0]];
+        while (i < size) {
+            if (count < size / 2) {
+                if (!store.count(candyType[i])) {
+                    count++;
+                    store[candyType[i]] = 0;
+                } 
             }
-        
-        ++i;
+            ++i;
         }
-        cout << store.size() << endl;
-        return store.size();
+        return count;
     }
 };
