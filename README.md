@@ -14,8 +14,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/Rajeshsaharan/dsa/tree/master/0575-distribute-candies) |
+| [1319-unique-number-of-occurrences](https://github.com/Rajeshsaharan/dsa/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
 | ------- |
 | [0575-distribute-candies](https://github.com/Rajeshsaharan/dsa/tree/master/0575-distribute-candies) |
+| [1319-unique-number-of-occurrences](https://github.com/Rajeshsaharan/dsa/tree/master/1319-unique-number-of-occurrences) |
 <!---LeetCode Topics End-->
