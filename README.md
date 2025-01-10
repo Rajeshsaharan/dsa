@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Rajeshsaharan/dsa/tree/master/0046-permutations) |
 | [0575-distribute-candies](https://github.com/Rajeshsaharan/dsa/tree/master/0575-distribute-candies) |
 | [1319-unique-number-of-occurrences](https://github.com/Rajeshsaharan/dsa/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0575-distribute-candies](https://github.com/Rajeshsaharan/dsa/tree/master/0575-distribute-candies) |
 | [1319-unique-number-of-occurrences](https://github.com/Rajeshsaharan/dsa/tree/master/1319-unique-number-of-occurrences) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Rajeshsaharan/dsa/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
