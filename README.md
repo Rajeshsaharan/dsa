@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rajeshsaharan/dsa/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajeshsaharan/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [1797-goal-parser-interpretation](https://github.com/Rajeshsaharan/dsa/tree/master/1797-goal-parser-interpretation) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Rajeshsaharan/dsa/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
 ## Array
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajeshsaharan/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [0575-distribute-candies](https://github.com/Rajeshsaharan/dsa/tree/master/0575-distribute-candies) |
 | [1319-unique-number-of-occurrences](https://github.com/Rajeshsaharan/dsa/tree/master/1319-unique-number-of-occurrences) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Rajeshsaharan/dsa/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
@@ -30,5 +32,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajeshsaharan/dsa/tree/master/0387-first-unique-character-in-a-string) |
 | [3736-find-valid-pair-of-adjacent-digits-in-string](https://github.com/Rajeshsaharan/dsa/tree/master/3736-find-valid-pair-of-adjacent-digits-in-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Rajeshsaharan/dsa/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
