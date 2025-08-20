@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajeshsaharan/dsa/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Rajeshsaharan/dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Rajeshsaharan/dsa/tree/master/0143-reorder-list) |
 ## Math
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rajeshsaharan/dsa/tree/master/0002-add-two-numbers) |
+| [0024-swap-nodes-in-pairs](https://github.com/Rajeshsaharan/dsa/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Rajeshsaharan/dsa/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/Rajeshsaharan/dsa/tree/master/0394-decode-string) |
 ## Stack
