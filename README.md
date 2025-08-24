@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Rajeshsaharan/dsa/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/Rajeshsaharan/dsa/tree/master/0143-reorder-list) |
+| [0283-move-zeroes](https://github.com/Rajeshsaharan/dsa/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Rajeshsaharan/dsa/tree/master/0046-permutations) |
+| [0283-move-zeroes](https://github.com/Rajeshsaharan/dsa/tree/master/0283-move-zeroes) |
 | [0575-distribute-candies](https://github.com/Rajeshsaharan/dsa/tree/master/0575-distribute-candies) |
 | [1319-unique-number-of-occurrences](https://github.com/Rajeshsaharan/dsa/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
